@@ -28,7 +28,7 @@ HealthLens AI is an educational web application built with Streamlit. It helps u
 3. Install the required dependency:
 
    ```bash
-   python -m pip install streamlit
+  python -m pip install -r requirements.txt
    ```
 
 4. Start the application:
