@@ -361,13 +361,12 @@ st.markdown(
 
 st.markdown(
     "- [MedlinePlus — Understanding Your Lab Results]"
-    "(https://medlineplus.gov/lab-tests/"
-    "understanding-your-lab-test-results/)"
+    "(https://medlineplus.gov/lab-tests/understanding-your-lab-test-results/)"
 )
 
 st.markdown(
     "- [NHS — Blood Tests]"
-    "(https://www.nhs.uk/conditions/blood-tests/)"
+    "(https://www.nhs.uk/tests-and-treatments/blood-tests/)"
 )
 
 st.caption(
