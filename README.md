@@ -55,17 +55,17 @@ You can also enter your own test name, result, unit, and reference limits to exp
 ### 1. Home and Demo Cases
 The home screen introduces HealthLens AI and its fictional demonstration cases.
 
-![HealthLens AI Home]([screenshots/Home.png](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/Home.png))
+![HealthLens AI Home](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/Home.png)
 
 ### 2. Laboratory Result Checker
 Users compare a laboratory value with a supplied reference range.
 
-![Laboratory Result Checker]([screenshots/result-checker.png](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/result-checker.png))
+![Laboratory Result Checker](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/result-checker.png)
 
 ### 3. Health Education Library
 The educational library explains basic laboratory concepts and provides trusted learning resources.
 
-![Health Education Library]([screenshots/education-library.png](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/education-library.png))
+![Health Education Library](https://github.com/sunnainatanveerda-debug/HealthLens-AI/blob/main/screenshots/education-library.png)
 ## ⚠️ Important Disclaimer
 
 HealthLens AI does not diagnose diseases, predict health conditions, recommend treatment, or replace professional medical advice. Laboratory results must be interpreted in context by a qualified healthcare professional. Reference ranges may differ between laboratories and individuals.
