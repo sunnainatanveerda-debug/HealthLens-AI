@@ -361,7 +361,7 @@ st.markdown(
 
 st.markdown(
     "- [MedlinePlus — Understanding Your Lab Results]"
-    "(https://medlineplus.gov/lab-tests/understanding-your-lab-test-results/)"
+    "(https://medlineplus.gov/lab-tests/blood-glucose-test/)"
 )
 
 st.markdown(
