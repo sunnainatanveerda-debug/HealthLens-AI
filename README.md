@@ -48,7 +48,7 @@ You can also enter your own test name, result, unit, and reference limits to exp
 ## 📚 Educational Resources
 
 - [MedlinePlus: Laboratory Tests](https://medlineplus.gov/lab-tests/)
-- [MedlinePlus: Understanding Your Lab Test Results](https://medlineplus.gov/lab-tests/understanding-your-lab-test-results/)
+- [MedlinePlus: Understanding Your Lab Test Results](https://medlineplus.gov/lab-tests/blood-glucose-test/)
 - [NHS: Blood Tests](https://www.nhs.uk/conditions/blood-tests/)
 ## 📸 Application Screenshots
 
